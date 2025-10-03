@@ -2,6 +2,6 @@
     "name": "capsule-site",
     "compatibility_date": "2025-01-03",
     "assets": {
-        "directory": "./dist"
+        "directory": "./"
     }
 }
