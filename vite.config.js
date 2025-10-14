@@ -8,6 +8,7 @@ export default defineConfig({
       "**/*.png",
       "**/*.svg",
       "**/*.gif",
+      "**/*.ttf",
     ],
 
     copyPublicDir: true,
